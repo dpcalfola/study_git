@@ -1,1 +1,0 @@
-# to_study_git
