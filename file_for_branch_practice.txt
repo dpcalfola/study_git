@@ -1,1 +1,5 @@
 111
+
+branch: merge_commit_practice
+    Is merge possible ?
+    Maybe merge occurs conflict
