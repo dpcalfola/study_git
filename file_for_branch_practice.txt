@@ -1,4 +1,11 @@
 111
 
+
 main branch :
     merge commit practice
+
+Conflict part:
+    Is merge possible ?
+    Maybe merge occurs conflict
+
+Try resolve conflict (1)
