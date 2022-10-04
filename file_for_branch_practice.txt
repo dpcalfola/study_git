@@ -9,3 +9,12 @@ Conflict part:
     Maybe merge occurs conflict
 
 Try resolve conflict (1)
+
+
+### squash merge practice
+
+command:
+    merge --squash
+
+commit data 1
+commit data 2
