@@ -15,3 +15,5 @@ Try resolve conflict (1)
 
 command:
     merge --squash
+
+commit data 1
