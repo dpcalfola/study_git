@@ -17,3 +17,4 @@ command:
     merge --squash
 
 commit data 1
+commit data 2
